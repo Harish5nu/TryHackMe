@@ -1,6 +1,6 @@
 # 🖥️ Windows Fundamentals 1 - TryHackMe Notes
 
-**Room link:** [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1)  
+**Room link:** [Windows Fundamentals 1](https://tryhackme.com/room/windowsfundamentals1xbx)  
 
 ---
 
