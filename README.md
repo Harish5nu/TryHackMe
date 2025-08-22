@@ -1,4 +1,3 @@
-
 # 🔐 TryHackMe Lab Journey
 
 > This repository contains my personal notes and completed labs from [TryHackMe](https://tryhackme.com/), a platform for learning cybersecurity through hands-on practice.
@@ -9,8 +8,15 @@ I am using this repository to document my **TryHackMe learning journey**, focusi
 
 So far, I’ve completed and uploaded:
 
-- ✅ **Blue Room** – Beginner-friendly Windows exploitation lab
-- ✅ **PwnKit (CVE-2021-4034)** – Linux Local Privilege Escalation vulnerability in Polkit
+- ✅ **Blue Room** – Beginner-friendly Windows exploitation lab  
+- ✅ **PwnKit (CVE-2021-4034)** – Linux Local Privilege Escalation vulnerability in Polkit  
+- ✅ **Spring4Shell** – Java Spring Framework RCE (CVE-2022-22965)  
+- ✅ **Active Directory** – Basics of AD enumeration and attacks  
+- ✅ **Intro to Docker** – Containerization fundamentals for pentesters  
+- ✅ **OWASP Top 10** – Common web vulnerabilities overview and practice  
+- ✅ **Unified Kill Chain** – Understanding attacker methodologies and phases  
+- ✅ **Vulnerabilities 101** – Introduction to common vulnerabilities  
+- ✅ **Windows Fundamentals (1, 2 & 3)** – Core Windows security features and tools  
 
 Each folder in this repository contains relevant files such as walkthroughs, notes, exploit code, and remediation steps.
 
