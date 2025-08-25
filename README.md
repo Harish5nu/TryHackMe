@@ -16,7 +16,8 @@ So far, I’ve completed and uploaded:
 - ✅ **OWASP Top 10** – Common web vulnerabilities overview and practice  
 - ✅ **Unified Kill Chain** – Understanding attacker methodologies and phases  
 - ✅ **Vulnerabilities 101** – Introduction to common vulnerabilities  
-- ✅ **Windows Fundamentals (1, 2 & 3)** – Core Windows security features and tools  
+- ✅ **Windows Fundamentals (1, 2 & 3)** – Core Windows security features and tools
+- ✅ **Windows Command line 
 
 Each folder in this repository contains relevant files such as walkthroughs, notes, exploit code, and remediation steps.
 
